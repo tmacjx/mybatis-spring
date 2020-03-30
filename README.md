@@ -1,3 +1,3 @@
 # mybatis-spring
 
-srpingmv + mybatis + jsp
+springmv + mybatis + jsp
